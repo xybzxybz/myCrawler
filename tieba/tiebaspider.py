@@ -1,11 +1,7 @@
 #!/usr/bin/env python
 # encoding: utf-8
 """
-爬取百度贴吧帖子，20页。
-涉及技术：
-    1. xpath解析网页数据
-    2. json库的基本使用
-    3. 使用map函数实现并行化
+测试测试学习学习
 """
 
 from lxml import etree
